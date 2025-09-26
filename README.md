@@ -49,5 +49,4 @@ image/                # Sample images
 - Upload images for each movie
 - View movie details by clicking on a movie
 
-## License
-This project is licensed under the MIT License.
+
