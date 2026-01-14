@@ -2,6 +2,7 @@
 
 Movify is a Node.js and Express-based web application for managing a collection of movies. Users can add, edit, view, and delete movies, as well as upload images for each movie. The app uses EJS for server-side rendering and supports image uploads and form validation.
 
+
 ## Features
 - Add, edit, and delete movies
 - Upload and display movie images
